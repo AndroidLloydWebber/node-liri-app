@@ -1,5 +1,3 @@
-# node-liri-app
-
 #npm install twitter
 #npm install spotify
 #npm install request
