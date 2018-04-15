@@ -238,4 +238,4 @@ If you have any questions about this project or the material we have covered, pl
 
 **Good Luck!**
 
-Add img to Readme
+![alt tag](http://url/to/img.png)
