@@ -238,4 +238,16 @@ If you have any questions about this project or the material we have covered, pl
 
 **Good Luck!**
 
-![alt tag](http://url/to/img.png)
+![<img width="1379" alt="screen shot 2018-04-12 at 10 47 35 pm" src="https://user-images.githubusercontent.com/13412644/38773708-84ef8bb4-4021-11e8-9f99-2a4dabfc07c3.png">](http://url/to/img.png)
+<img width="1379" alt="screen shot 2018-04-12 at 10 47 35 pm" src="https://user-images.githubusercontent.com/13412644/38773708-84ef8bb4-4021-11e8-9f99-2a4dabfc07c3.png">
+<img width="1368" alt="screen shot 2018-04-12 at 10 48 12 pm" src="https://user-images.githubusercontent.com/13412644/38773709-84f9f1bc-4021-11e8-9e4f-4b283f2923b3.png">
+<img width="1257" alt="screen shot 2018-04-12 at 10 57 13 pm" src="https://user-images.githubusercontent.com/13412644/38773710-85061a50-4021-11e8-8741-3db301c50ad9.png">
+<img width="1308" alt="screen shot 2018-04-12 at 10 57 38 pm" src="https://user-images.githubusercontent.com/13412644/38773711-85103684-4021-11e8-9e43-7b4d403cdb7c.png">
+<img width="1389" alt="screen shot 2018-04-12 at 10 58 19 pm" src="https://user-images.githubusercontent.com/13412644/38773712-85403e4c-4021-11e8-8bdd-73e18a77cdb4.png">
+<img width="1387" alt="screen shot 2018-04-12 at 10 59 27 pm" src="https://user-images.githubusercontent.com/13412644/38773713-8549b45e-4021-11e8-8e46-0010b058c00f.png">
+<img width="1388" alt="screen shot 2018-04-12 at 11 00 22 pm" src="https://user-images.githubusercontent.com/13412644/38773714-85539e38-4021-11e8-9233-de40f094d37e.png">
+
+<img width="1379" alt="screen shot 2018-04-12 at 11 00 51 pm" src="https://user-images.githubusercontent.com/13412644/38773715-8579e50c-4021-11e8-9058-69ebe9e40869.png">
+<img width="1356" alt="screen shot 2018-04-12 at 11 02 24 pm" src="https://user-images.githubusercontent.com/13412644/38773716-858486d8-4021-11e8-99e6-6ab487b8f6cf.png">
+<img width="702" alt="screen shot 2018-04-12 at 11 03 28 pm" src="https://user-images.githubusercontent.com/13412644/38773717-8595620a-4021-11e8-8f99-e52af867753f.png">
+
