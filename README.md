@@ -238,7 +238,7 @@ If you have any questions about this project or the material we have covered, pl
 
 **Good Luck!**
 
-![<img width="1379" alt="screen shot 2018-04-12 at 10 47 35 pm" src="https://user-images.githubusercontent.com/13412644/38773708-84ef8bb4-4021-11e8-9f99-2a4dabfc07c3.png">](http://url/to/img.png)
+[<img width="1379" alt="screen shot 2018-04-12 at 10 47 35 pm" src="https://user-images.githubusercontent.com/13412644/38773708-84ef8bb4-4021-11e8-9f99-2a4dabfc07c3.png">
 <img width="1379" alt="screen shot 2018-04-12 at 10 47 35 pm" src="https://user-images.githubusercontent.com/13412644/38773708-84ef8bb4-4021-11e8-9f99-2a4dabfc07c3.png">
 <img width="1368" alt="screen shot 2018-04-12 at 10 48 12 pm" src="https://user-images.githubusercontent.com/13412644/38773709-84f9f1bc-4021-11e8-9e4f-4b283f2923b3.png">
 <img width="1257" alt="screen shot 2018-04-12 at 10 57 13 pm" src="https://user-images.githubusercontent.com/13412644/38773710-85061a50-4021-11e8-8741-3db301c50ad9.png">
